@@ -1,0 +1,21 @@
+.btn-primary {
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border: 2px solid white;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+
+.btn-primary:hover {
+  background-color: white;
+  color: black;
+  border-color: black;
+}
+
+.btn-hover-area {
+  align-self: center;
+  padding-bottom: 20px;
+}
